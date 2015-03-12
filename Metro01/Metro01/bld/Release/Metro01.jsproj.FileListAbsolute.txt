@@ -1,0 +1,13 @@
+C:\Users\antonio\Documents\ProjectsVisualStudio2012\metro\Metro01\Metro01\bin\Release\resources.pri
+C:\Users\antonio\Documents\ProjectsVisualStudio2012\metro\Metro01\Metro01\bin\Release\AppxManifest.xml
+C:\Users\antonio\Documents\ProjectsVisualStudio2012\metro\Metro01\Metro01\bin\Release\Metro01.build.appxrecipe
+C:\Users\antonio\Documents\ProjectsVisualStudio2012\metro\Metro01\Metro01\bld\Release\priconfig.xml.intermediate
+C:\Users\antonio\Documents\ProjectsVisualStudio2012\metro\Metro01\Metro01\bld\Release\layout.resfiles.intermediate
+C:\Users\antonio\Documents\ProjectsVisualStudio2012\metro\Metro01\Metro01\bld\Release\resources.resfiles.intermediate
+C:\Users\antonio\Documents\ProjectsVisualStudio2012\metro\Metro01\Metro01\bld\Release\pri.resfiles.intermediate
+C:\Users\antonio\Documents\ProjectsVisualStudio2012\metro\Metro01\Metro01\bld\Release\priconfig.xml
+C:\Users\antonio\Documents\ProjectsVisualStudio2012\metro\Metro01\Metro01\bld\Release\layout.resfiles
+C:\Users\antonio\Documents\ProjectsVisualStudio2012\metro\Metro01\Metro01\bld\Release\resources.resfiles
+C:\Users\antonio\Documents\ProjectsVisualStudio2012\metro\Metro01\Metro01\bld\Release\pri.resfiles
+C:\Users\antonio\Documents\ProjectsVisualStudio2012\metro\Metro01\Metro01\bld\Release\LanguageQualifiers.txt
+C:\Users\antonio\Documents\ProjectsVisualStudio2012\metro\Metro01\Metro01\bld\Release\ProjectArchitectures.txt
